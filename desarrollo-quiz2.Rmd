@@ -1,5 +1,6 @@
 ---
-title: "Desarrollo Quiz 2"
+title: "Quiz 2"
+author: "Pachamaltese"
 output: html_document
 ---
 

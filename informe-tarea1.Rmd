@@ -1,5 +1,6 @@
 ---
-title: "Tarea 1"
+title: "Assignment 1"
+author: "Pachamaltese"
 output: html_document
 ---
 
@@ -18,7 +19,7 @@ Illustrate via simulation and associated explanatory text the properties of the 
 1. Show where the distribution is centered at and compare it to the theoretical center of the distribution.
 
 ```{r}
-setwd("/Users/pacha/Dropbox/R/statinference")
+setwd("/Users/pacha/Documents/Coursera/tareas\ y\ controles/Statistical\ Inference/")
 library(lattice)
 library(gplots)
 
